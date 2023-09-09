@@ -1,7 +1,11 @@
 {
   "files.associations": {
+    "*.ejs": "html",
+    "*.py": "python",
+    "*.css": "css",
     "*.overlay": "dts",
-    "*.keymap": "dts"
+    "*.keymap": "dts",
+    "bongo_cat.h": "c"
   },
   "python.formatting.provider": "black",
   "[c]": {
